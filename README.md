@@ -1,19 +1,27 @@
 # Juliana L. Narvasa
-**Front-End Developer | Aspiring UI/UX Designer | BSIT Student**
+**Front-End Developer | Aspiring UI/UX Designer**
+**2nd Year BSIT Student at Davao Del Norte State College**
 **Building responsive, user-centered web experiences with a strong foundation in Java**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-julia--glitchspec.github.io-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://julia-glitchspec.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-julia--glitchspec.github.io-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://julia-glitchspec.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-junejulianarvasa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junejulianarvasa@gmail.com)
 
 ---
 
 ## About Me
-I am a Bachelor of Science in Information Technology student
-with a strong interest in front-end development and user
-interface design. I specialize in building responsive,
-structured, and visually engaging web interfaces that
-prioritize **clarity** and **usability**.
+I am a **2nd year Bachelor of Science in Information
+Technology** student with a strong interest in front-end
+development and user interface design. I specialize in
+building responsive, structured, and visually engaging
+web interfaces that prioritize **clarity** and **usability**.
+
+Currently in my 2nd year, I am actively strengthening
+my academic foundation while applying what I learn into
+real-world projects. My coursework has introduced me to
+core programming concepts, system design, and software
+development principles that shape how I approach building
+digital solutions.
 
 My primary focus is **front-end development**, where I
 continuously refine my skills in HTML, CSS, and responsive
@@ -27,6 +35,39 @@ I aim to create digital experiences that are not only
 functional but also intuitive and meaningful to users.
 My long-term goal is to grow into a well-rounded developer
 who bridges the gap between **design** and **development**.
+
+---
+
+## 🎓 Education
+
+- 🏫 **School:** Davao Del Norte State College
+- 📚 **Program:** Bachelor of Science in Information
+  Technology (BSIT)
+- 📅 **Year Level:** 2nd Year
+- 📍 **Status:** Currently Enrolled
+
+---
+
+## 🌐 Portfolio
+
+> 🚀 **Visit my live portfolio website:**
+> ### [https://julia-glitchspec.github.io/](https://julia-glitchspec.github.io/)
+
+My portfolio showcases my journey as a Front-End Developer
+and aspiring UI/UX Designer. It features:
+
+- 🎨 **Responsive web interfaces** built with HTML, CSS,
+  and JavaScript
+- 🖌️ **UI/UX design work** including wireframes,
+  prototypes, and user flow designs
+- ⚙️ **Technical foundation** in Java programming
+  and object-oriented development
+- 📂 **Featured projects** with live demos and
+  source code links
+- 🌗 **Light and Dark mode** toggle for better
+  user experience
+- 📬 **Contact form** for collaborations and
+  opportunities
 
 ---
 
@@ -78,5 +119,5 @@ responsive design techniques and user-centered principles.
 
 - 📧 **Email:** junejulianarvasa@gmail.com
 - 🐙 **GitHub:** https://github.com/julia-glitchspec
-- 🌐 **Portfolio:** https://julia-glitchspec.github.io
-- 📞 **Phone:** 0993 416 4572
+- 🌐 **Portfolio:** https://julia-glitchspec.github.io/
+- 📞 **Phone:** [Your Phone Number]
